@@ -79,9 +79,8 @@ sudo systemctl start minecraft.service
 
 # End script
 ```
+4. AFter you finish editing the script Ctrl+O and Ctrl+X to save and exit. Then grand the file execture permissions with ```chmod +x setup-minecraft.sh```.
+5. Finally it is time to run the script with ```bash setup-minecraft.sh```
 
 
 
-
-nano setup-minecraft.sh
-chmod +x setup-minecraft.sh
